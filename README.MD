@@ -1,7 +1,7 @@
 # Readme
 ## Create conda environment
 ```bash
-conda create -n deep
+conda create python=3.12 -n deep
 conda activate deep
 ```
 ## Install dependencies
