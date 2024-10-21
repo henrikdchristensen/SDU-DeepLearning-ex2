@@ -12,3 +12,6 @@ pip install -r requirements.txt
 ```bash
 python ex2.py
 ```
+
+## TODO
+Make transformation of the features one by one and check for each the best R2 score.
